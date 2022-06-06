@@ -102,6 +102,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "4.0.1"
+  inner_shadow_widget:
+    dependency: "direct main"
+    description:
+      name: inner_shadow_widget
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.0.3"
   lints:
     dependency: transitive
     description:
